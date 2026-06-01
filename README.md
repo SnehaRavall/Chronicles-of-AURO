@@ -25,8 +25,9 @@ The project combines creative UI design, meaningful content, interactive transit
 ## Project Link
 
 🔗 **View Figma Prototype:** https://www.figma.com/design/QfvkLFXArbIE95w6Zdx0l4/Untitled?node-id=13-127&t=U74u0F8oeRx48zgn-1 
+https://www.figma.com/design/QfvkLFXArbIE95w6Zdx0l4/Untitled?node-id=80-227&t=U74u0F8oeRx48zgn-1 
 
-## Author
+## By
 
 **Sneha Raval**
 MSc Artificial Intelligence 
