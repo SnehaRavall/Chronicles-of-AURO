@@ -4,7 +4,7 @@
 
 Chronicles of AURO is a visually rich storytelling project designed in Figma that captures my journey as an MSc Artificial Intelligence student at AURO University.
 
-The project combines creative UI design, meaningful content, interactive transitions, and animations to transform academic experiences into an engaging digital narrative. Each frame represents significant moments, achievements, values, friendships, and learning experiences throughout my postgraduate journey.
+The project combines creative UI design, meaningful content, interactive transitions, and animations to transform academic experiences into an engaging digital narrative. Each frame represents significant moments, values, friendships, and learning experiences throughout my postgraduate journey.
 
 ## Features
 
